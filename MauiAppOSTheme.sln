@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppOSTheme", "MauiAppOSTheme\MauiAppOSTheme.csproj", "{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D61DFE-C5C2-441D-9672-FBDB2CF729BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB8CBADB-780A-42D3-B0ED-33BB93EA8B03}
+	EndGlobalSection
+EndGlobal
