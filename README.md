@@ -1,5 +1,6 @@
 # MAUI Incorrect Theme when Resuming iOS App
-Maui uses Light Theme instead of Dark Theme on iOS when resuming App (for example after "sharing a link" to a browser).
+Maui is using `Light Theme` instead of `Dark Theme` on iOS when resuming App (for example after "sharing a link" to a browser) when the OS is set to use Dark Theme (and the app was showing Dark Theme before resuming.
+`Application.Current.RequestedTheme` is also returning the incorrect theme in these scenarios on `App.OnResume`.
 It's sometimes needed to repeat Share process to reproduce the bug.
 
 #### Steps to Reproduce:
